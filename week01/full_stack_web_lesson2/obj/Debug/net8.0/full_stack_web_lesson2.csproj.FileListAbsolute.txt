@@ -1,0 +1,14 @@
+/Users/ayhanakkaya/Desktop/full_stack_web_lesson2/bin/Debug/net8.0/full_stack_web_lesson2
+/Users/ayhanakkaya/Desktop/full_stack_web_lesson2/bin/Debug/net8.0/full_stack_web_lesson2.deps.json
+/Users/ayhanakkaya/Desktop/full_stack_web_lesson2/bin/Debug/net8.0/full_stack_web_lesson2.runtimeconfig.json
+/Users/ayhanakkaya/Desktop/full_stack_web_lesson2/bin/Debug/net8.0/full_stack_web_lesson2.dll
+/Users/ayhanakkaya/Desktop/full_stack_web_lesson2/bin/Debug/net8.0/full_stack_web_lesson2.pdb
+/Users/ayhanakkaya/Desktop/full_stack_web_lesson2/obj/Debug/net8.0/full_stack_web_lesson2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ayhanakkaya/Desktop/full_stack_web_lesson2/obj/Debug/net8.0/full_stack_web_lesson2.AssemblyInfoInputs.cache
+/Users/ayhanakkaya/Desktop/full_stack_web_lesson2/obj/Debug/net8.0/full_stack_web_lesson2.AssemblyInfo.cs
+/Users/ayhanakkaya/Desktop/full_stack_web_lesson2/obj/Debug/net8.0/full_stack_web_lesson2.csproj.CoreCompileInputs.cache
+/Users/ayhanakkaya/Desktop/full_stack_web_lesson2/obj/Debug/net8.0/full_stack_web_lesson2.dll
+/Users/ayhanakkaya/Desktop/full_stack_web_lesson2/obj/Debug/net8.0/refint/full_stack_web_lesson2.dll
+/Users/ayhanakkaya/Desktop/full_stack_web_lesson2/obj/Debug/net8.0/full_stack_web_lesson2.pdb
+/Users/ayhanakkaya/Desktop/full_stack_web_lesson2/obj/Debug/net8.0/full_stack_web_lesson2.genruntimeconfig.cache
+/Users/ayhanakkaya/Desktop/full_stack_web_lesson2/obj/Debug/net8.0/ref/full_stack_web_lesson2.dll

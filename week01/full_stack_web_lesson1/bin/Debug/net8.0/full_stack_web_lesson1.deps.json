@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "full_stack_web_lesson1/1.0.0": {
+        "runtime": {
+          "full_stack_web_lesson1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "full_stack_web_lesson1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
